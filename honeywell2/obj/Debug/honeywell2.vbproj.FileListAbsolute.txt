@@ -1,0 +1,11 @@
+D:\VB\honeywell2\bin\Debug\Xenon1900條碼閱讀機專用.exe
+D:\VB\honeywell2\bin\Debug\Xenon1900條碼閱讀機專用.pdb
+D:\VB\honeywell2\bin\Debug\Xenon1900條碼閱讀機專用.xml
+D:\VB\honeywell2\obj\Debug\honeywell2.vbprojAssemblyReference.cache
+D:\VB\honeywell2\obj\Debug\Xenon1900.Form1.resources
+D:\VB\honeywell2\obj\Debug\Xenon1900.Form2.resources
+D:\VB\honeywell2\obj\Debug\Xenon1900.Resources.resources
+D:\VB\honeywell2\obj\Debug\honeywell2.vbproj.GenerateResource.cache
+D:\VB\honeywell2\obj\Debug\Xenon1900條碼閱讀機專用.exe
+D:\VB\honeywell2\obj\Debug\Xenon1900條碼閱讀機專用.xml
+D:\VB\honeywell2\obj\Debug\Xenon1900條碼閱讀機專用.pdb

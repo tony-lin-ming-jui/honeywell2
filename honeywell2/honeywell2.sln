@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "honeywell2", "honeywell2.vbproj", "{B59CC20C-4C96-43F1-A657-2F93D0EA327A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59CC20C-4C96-43F1-A657-2F93D0EA327A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59CC20C-4C96-43F1-A657-2F93D0EA327A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59CC20C-4C96-43F1-A657-2F93D0EA327A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59CC20C-4C96-43F1-A657-2F93D0EA327A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B189BB33-1F6E-48DB-BC22-DC9710135A62}
+	EndGlobalSection
+EndGlobal
